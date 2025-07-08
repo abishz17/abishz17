@@ -4,9 +4,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/abishbhusal"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" /></a>
-  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white" /></a>
-  <a href="mailto:abish@example.com"><img src="https://img.shields.io/badge/Email-0078D4?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/abishz17"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" /></a>
+  <a href="https://abishbhusal.com.np"><img src="https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white" /></a>
+  <a href="mailto:abish.bhusal@gmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -27,15 +27,15 @@ I enjoy working at the intersection of **systems design**, **backend infrastruct
 ### 📊 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abishbhusal&theme=default" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abishz17&theme=default" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abishbhusal&bg_color=ffffff&color=000000&line=000000&point=444444&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abishz17&bg_color=ffffff&color=000000&line=000000&point=444444&area=true&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abishbhusal&show_icons=true&hide=stars&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abishz17&show_icons=true&hide=stars&theme=default&hide_border=true" />
 </p>
 
 ---
