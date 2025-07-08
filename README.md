@@ -30,7 +30,7 @@ I enjoy working at the intersection of **systems design**, **backend infrastruct
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abishz17&bg_color=ffffff&color=000000&line=000000&point=444444&area=true&hide_border=true&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abishz17&bg_color=#ff4499&color=000000&line=000000&point=444444&area=true&hide_border=true&theme=tokyonight" />
 </p>
 
 ---
