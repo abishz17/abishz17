@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center" style="border-bottom: none;">Abish Bhusal</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&lines=Builder+of+Quiet+Tools;Lover+of+Low-Level+Craftsmanship;Conscious+of+Code+and+Culture" alt="Typing SVG" />
+</p>
 
-<!--
-**abishz17/abishz17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/abishbhusal"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" /></a>
+  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white" /></a>
+  <a href="mailto:abish@example.com"><img src="https://img.shields.io/badge/Email-0078D4?style=flat&logo=gmail&logoColor=white" /></a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🕊️ About Me
+
+> *I believe good software is invisible, reliable, and elegant under pressure.*
+
+I enjoy working at the intersection of **systems design**, **backend infrastructure**, and **developer ergonomics**. My focus is on building tools that **get out of the way** and just work.
+
+- 🧠 Thinking deeply about **design, simplicity, and intent**
+- ✍️ Learning by building and breaking things
+- 🔍 Currently obsessed with: low-level networking, systems thinking, and everything Go & C
+
+---
+---
+
+### 📊 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abishbhusal&theme=default" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abishbhusal&bg_color=ffffff&color=000000&line=000000&point=444444&area=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abishbhusal&show_icons=true&hide=stars&theme=default&hide_border=true" />
+</p>
+
+---
+
+<sub align="center">Crafted with intention. Built to endure.</sub>
