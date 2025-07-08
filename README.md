@@ -26,15 +26,11 @@ I enjoy working at the intersection of **systems design**, **backend infrastruct
 ### 📊 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abishz17&theme=default" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abishz17&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abishz17&bg_color=ffffff&color=000000&line=000000&point=444444&area=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abishz17&show_icons=true&hide=stars&theme=default&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abishz17&bg_color=000000&color=000000&line=000000&point=444444&area=true&hide_border=true" />
 </p>
 
 ---
