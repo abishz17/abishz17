@@ -1,10 +1,9 @@
 <h1 align="center" style="border-bottom: none;">Abish Bhusal</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&lines=Builder+of+Quiet+Tools;Lover+of+Low-Level+Craftsmanship;Conscious+of+Code+and+Culture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&lines=Just+A+Tech+Guy;Code+and+Culture" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/abishz17"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" /></a>
   <a href="https://abishbhusal.com.np"><img src="https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white" /></a>
   <a href="mailto:abish.bhusal@gmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
