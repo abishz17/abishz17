@@ -1,6 +1,6 @@
 <h1 align="center" style="border-bottom: none;">Abish Bhusal</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&lines=Just+A+Tech+Guy;Code+and+Culture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&lines=Code+and+Culture" alt="Typing SVG" />
 </p>
 
 <p align="center">
