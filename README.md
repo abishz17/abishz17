@@ -10,13 +10,8 @@
 
 ---
 
-### 🕊️ About Me
-
-I enjoy working at the intersection of **systems design**, **backend infrastructure**, and **developer ergonomics**. My focus is on building tools that **get out of the way** and just work.
-
-- 🧠 Thinking deeply about **design, simplicity, and intent**
-- ✍️ Learning by building and breaking things
-- 🔍 Currently obsessed with: low-level networking, systems thinking, and everything Go & C
+###  About Me
+I like to learn about how computers work. Currently working with C++ and Golang.
 
 ---
 ---
